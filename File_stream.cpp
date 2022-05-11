@@ -7,6 +7,7 @@ using namespace std;
 #define max_input 100
 int main(int argc,char * argv[])
 {
+    
     int x;
     int y;
     int z[max_input];
